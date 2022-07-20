@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490336531270",
+    "project_id": "logistik-7efcc",
+    "storage_bucket": "logistik-7efcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490336531270:android:079eaf86c8c21670c7eb47",
+        "android_client_info": {
+          "package_name": "com.is6144.logistik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490336531270-hhvnp5hfod97v0fdq8gpc6c3tsmjauiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4UimifZBJgW9W8xxv8veEGCuMQra6nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490336531270-hhvnp5hfod97v0fdq8gpc6c3tsmjauiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
